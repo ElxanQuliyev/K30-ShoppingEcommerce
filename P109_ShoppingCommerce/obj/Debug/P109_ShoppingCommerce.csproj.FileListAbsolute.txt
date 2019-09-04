@@ -1,0 +1,285 @@
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\ApplicationInsights.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.pdb
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.rsp
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.rsp
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Console.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.rsp
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\WebGrease.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csprojAssemblyReference.cache
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CopyComplete
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.pdb
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.xml
+C:\Users\Samir D\source\repos\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\ApplicationInsights.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.pdb
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.rsp
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.rsp
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.AppContext.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Console.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.rsp
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\WebGrease.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.pdb
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CopyComplete
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.dll
+C:\Users\Code\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.pdb
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\ApplicationInsights.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\P109_ShoppingCommerce.pdb
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\WebGrease.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.AI.Web.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csprojAssemblyReference.cache
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.csproj.CopyComplete
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.dll
+C:\Users\User\Desktop\P109_ShoppingCommerce\P109_ShoppingCommerce\obj\Debug\P109_ShoppingCommerce.pdb

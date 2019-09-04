@@ -1,0 +1,25 @@
+﻿@model P109_ShoppingCommerce.Models.UserLogin
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Register</h2>
+
+<form method="post">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email)
+        @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.Email, null, new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.Password)
+        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", type = "password" })
+        @Html.ValidationMessageFor(model => model.Password, null, new { @class = "text-danger" })
+    </div>
+
+    @Html.ValidationSummary()
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>

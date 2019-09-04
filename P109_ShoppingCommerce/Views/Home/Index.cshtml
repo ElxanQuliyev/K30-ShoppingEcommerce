@@ -1,0 +1,51 @@
+﻿@model P109_ShoppingCommerce.ViewModels.HomeIndexVM
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        @if (Model.Products.Count() == 0)
+        {
+            <div class="alert alert-info mt-5" role="alert">
+                Excuse me, baby. There is no Producs with this category. <a href="/Home/Index" class="alert-link">Go to all list.</a>
+            </div>
+        }
+        else
+        {
+            foreach (var item in Model.Products)
+            {
+                <div class="col-md-4">
+                    <a href="/Products/Details/@item.Id">
+                        <img width="100%" class="img-rounded" style="display: block;" src="~/Images/@item.Image" alt="Placeholder image" />
+                    </a>
+                    <h4>@item.ProductName</h4>
+                    <p>@item.Price AZN</p>
+                </div>
+            }
+        }
+
+    </div>
+</div>
+
+
+@section left_aside{
+    <div class="sticky-top" style="padding-top: 50px;">
+         <h4 class="text-info">Top products</h4>
+        <ul class="list-group">
+            @foreach (var item in Model.TopCategories)
+            {
+                <li class="list-group-item">
+                    <a href="/Home/Index?cid=@item.Id">
+                        @item.CategoryName
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+}
+
+@section right_aside{
+    <h4>Ads</h4>
+    
+}
